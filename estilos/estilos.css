@@ -1,0 +1,19 @@
+header{
+    background-color: rgb(250, 246, 5);
+    text-align: center;
+    width: 100%;
+}
+.vinculo{
+    font-size:150%;
+}
+table{
+    border: "1";
+    width: 100%;
+}
+
+th{
+    background-color: rgb(219, 224, 229);
+}
+tr:nth-child(even){
+    background-color: rgb(111, 153, 190);
+}
